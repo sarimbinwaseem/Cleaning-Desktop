@@ -1,4 +1,7 @@
 # Cleaning-Desktop
 Sort and move specific files to specific folders.
 
-> For cluttery Desktop and people who dump all their files on Desktop and it looks like a dumspter.
+> For people who have a dumpster as a wallpaper.
+
+Messy Desktops, cleaned by double click.
+Modify it for your needs.
